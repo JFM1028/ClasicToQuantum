@@ -15,3 +15,23 @@ El patrón de interferencias obtenido en el experimento de Jönsson demostraba c
 Este descubrimiento marcó un hito en la física moderna y contribuyó significativamente al desarrollo de la física cuántica, al evidenciar propiedades ondulatorias en partículas, un fenómeno incomprensible bajo el paradigma clásico de la física.
 
 La simulación de un sistema probabilístico con dos rendijas, tal como se ha descrito, proporciona una comprensión intuitiva de los resultados del experimento de la doble rendija. El patrón de interferencia observado refleja la distribución de probabilidades de las partículas en la pantalla, corroborando la naturaleza probabilística de los eventos cuánticos.
+
+Diseño Experimental:
+
+El experimento consiste en pasar un haz de luz (o partículas) a través de dos rendijas estrechas y observar el patrón de interferencia en una pantalla ubicada detrás de las rendijas.
+En el caso de la luz, las ondas provenientes de cada rendija interfieren entre sí, creando franjas brillantes y oscuras en la pantalla.
+Para partículas como electrones, la interferencia también se observa, lo que indica su naturaleza ondulatoria.
+
+Proceso y Paso a Paso:
+
+Generación del Haz: Se genera un haz de luz coherente o se aceleran partículas (como electrones) para formar el haz.
+Paso por las Rendijas: El haz atraviesa dos rendijas estrechas.
+Interferencia: Las ondas (o partículas) provenientes de las dos rendijas interfieren entre sí cuando alcanzan la pantalla.
+Patrón de Interferencia: Se forma un patrón de franjas de intensidad en la pantalla, que consiste en regiones brillantes (máximos) y oscuras (mínimos).
+Interpretación: La presencia de franjas de interferencia indica que las ondas (o partículas) han interactuado de manera coherente y han sufrido interferencia constructiva y destructiva.
+
+Por qué Funciona:
+
+En el caso de la luz, la interferencia se explica por la superposición de ondas provenientes de las dos rendijas. Cuando las crestas de una onda coinciden con las de la otra, se produce interferencia constructiva, aumentando la intensidad en esa región. Cuando una cresta coincide con un valle, se produce interferencia destructiva, reduciendo la intensidad.
+Para partículas como electrones, el fenómeno de interferencia se explica mediante la función de onda cuántica, que describe la probabilidad de encontrar la partícula en un lugar determinado. La interferencia se debe a la superposición de las funciones de onda de las partículas que pasan por las dos rendijas.
+En resumen, el experimento de la doble rendija es un claro ejemplo de la dualidad onda-partícula en la naturaleza y destaca la importancia de la mecánica cuántica en la comprensión del mundo subatómico.
